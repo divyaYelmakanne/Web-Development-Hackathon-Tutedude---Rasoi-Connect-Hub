@@ -50,22 +50,22 @@ Rasoi Connect Hub is a full-featured platform built to bridge the gap between **
 
 ## 📁 Folder Structure
 
-rasoi-connect-hub/
-├── public/
-├── src/
+rasoi-connect-hub/                                                                                                                                                           
+├── public/                                                                                                                                                                  
+├── src/                                                                                                                                                                     
 │ ├── components/
-│ │ ├── SupplierDashboard/
-│ │ ├── CustomerPanel/
-│ │ ├── GroupChat/
-│ │ ├── Analytics/
-│ │ ├── Orders/
-│ │ ├── Reviews/
-│ │ └── Common/
-│ ├── pages/
-│ ├── assets/
-│ └── App.tsx
-├── README.md
-└── package.json
+│ │ ├── SupplierDashboard/                                                                                                                                                   
+│ │ ├── CustomerPanel/                                                                                                                                                       
+│ │ ├── GroupChat/                                                                                                                                                           
+│ │ ├── Analytics/                                                                                                                                                           
+│ │ ├── Orders/                                                                                                                                                              
+│ │ ├── Reviews/                                                                                                                                                             
+│ │ └── Common/                                                                                                                                                              
+│ ├── pages/                                                                                                                                                                 
+│ ├── assets/                                                                                                                                                                
+│ └── App.tsx                                                                                                                                                                
+├── README.md                                                                                                                                                                
+└── package.json                                                                                                                                                             
 
 pgsql
 Copy
