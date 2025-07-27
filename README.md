@@ -122,13 +122,13 @@ Edit
 
 
 # Terminal 1 - Backend
-cd rasoi-connect-hub-main/backend
-pip install -r requirements.txt
+cd rasoi-connect-hub-main/backend                                                                                                                                            
+pip install -r requirements.txt                                                                                                                                              
 python app.py
 
 # Terminal 2 - Frontend  
-cd rasoi-connect-hub-main
-npm install
+cd rasoi-connect-hub-main                                                                                                                                                    
+npm install                                                                                                                                                                  
 npm run dev
 
 
