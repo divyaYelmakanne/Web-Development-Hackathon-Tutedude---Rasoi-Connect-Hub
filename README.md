@@ -53,7 +53,7 @@ Rasoi Connect Hub is a full-featured platform built to bridge the gap between **
 rasoi-connect-hub/                                                                                                                                                           
 ├── public/                                                                                                                                                                  
 ├── src/                                                                                                                                                                     
-│ ├── components/
+│ ├── components/                                                                                                                                                            
 │ │ ├── SupplierDashboard/                                                                                                                                                   
 │ │ ├── CustomerPanel/                                                                                                                                                       
 │ │ ├── GroupChat/                                                                                                                                                           
